@@ -1,0 +1,11 @@
+Lab 3: Text Classification
+
+For this lab excercise, you will work with the IMDb Movie Reviews dataset.This is a 
+binary sentiment analysis dataset consisting of 50,000 reviews from the Internet Movie Database (IMDb) labeled as positive or negative. The dataset contains an even number of positive and negative reviews.
+
+You can download the IMDb dataset in csv format from the link below:
+
+URL: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data 
+
+
+ 

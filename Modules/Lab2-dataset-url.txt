@@ -1,0 +1,11 @@
+Lab 2: Linear Classification
+
+For this lab excercise, download or feth the dataset from the following URL:
+
+URL: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
+
+Explore the dataset, especially for possible feature reduction/selection prior to model building. There are a number of ways that can be done in sklearn. For example, you can try using "SequentialFeatureSelector" from "sklearn.feature_selection" module.
+
+
+ 
